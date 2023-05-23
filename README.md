@@ -1,2 +1,2 @@
 # BookStore.SqlScript
-BookStoreScript.sql file to create the database of this project BookStore: MSSQL Server/T-SQL/SQL Server Management Studio,
+__BookStoreScript.sql__ file to create the __database__ of this project BookStore: MSSQL Server/T-SQL/SQL Server Management Studio,
